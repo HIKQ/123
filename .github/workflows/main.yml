@@ -23,5 +23,5 @@ jobs:
         with:
           source_repo: "https://github.com/HH97108/99.git"
           source_branch: "master"
-          destination_branch: "master"
+          destination_branch: "main"
           github_token: ${{ secrets.PAT }}
